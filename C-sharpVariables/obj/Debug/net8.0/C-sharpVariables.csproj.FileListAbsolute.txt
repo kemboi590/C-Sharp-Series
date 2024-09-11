@@ -1,0 +1,14 @@
+D:\dotnet\Guide\C-sharpVariables\bin\Debug\net8.0\C-sharpVariables.exe
+D:\dotnet\Guide\C-sharpVariables\bin\Debug\net8.0\C-sharpVariables.deps.json
+D:\dotnet\Guide\C-sharpVariables\bin\Debug\net8.0\C-sharpVariables.runtimeconfig.json
+D:\dotnet\Guide\C-sharpVariables\bin\Debug\net8.0\C-sharpVariables.dll
+D:\dotnet\Guide\C-sharpVariables\bin\Debug\net8.0\C-sharpVariables.pdb
+D:\dotnet\Guide\C-sharpVariables\obj\Debug\net8.0\C-sharpVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Guide\C-sharpVariables\obj\Debug\net8.0\C-sharpVariables.AssemblyInfoInputs.cache
+D:\dotnet\Guide\C-sharpVariables\obj\Debug\net8.0\C-sharpVariables.AssemblyInfo.cs
+D:\dotnet\Guide\C-sharpVariables\obj\Debug\net8.0\C-sharpVariables.csproj.CoreCompileInputs.cache
+D:\dotnet\Guide\C-sharpVariables\obj\Debug\net8.0\C-sharpVariables.dll
+D:\dotnet\Guide\C-sharpVariables\obj\Debug\net8.0\refint\C-sharpVariables.dll
+D:\dotnet\Guide\C-sharpVariables\obj\Debug\net8.0\C-sharpVariables.pdb
+D:\dotnet\Guide\C-sharpVariables\obj\Debug\net8.0\C-sharpVariables.genruntimeconfig.cache
+D:\dotnet\Guide\C-sharpVariables\obj\Debug\net8.0\ref\C-sharpVariables.dll

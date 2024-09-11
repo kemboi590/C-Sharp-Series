@@ -1,0 +1,14 @@
+D:\dotnet\Guide\Namespaces\bin\Debug\net8.0\Namespaces.exe
+D:\dotnet\Guide\Namespaces\bin\Debug\net8.0\Namespaces.deps.json
+D:\dotnet\Guide\Namespaces\bin\Debug\net8.0\Namespaces.runtimeconfig.json
+D:\dotnet\Guide\Namespaces\bin\Debug\net8.0\Namespaces.dll
+D:\dotnet\Guide\Namespaces\bin\Debug\net8.0\Namespaces.pdb
+D:\dotnet\Guide\Namespaces\obj\Debug\net8.0\Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Guide\Namespaces\obj\Debug\net8.0\Namespaces.AssemblyInfoInputs.cache
+D:\dotnet\Guide\Namespaces\obj\Debug\net8.0\Namespaces.AssemblyInfo.cs
+D:\dotnet\Guide\Namespaces\obj\Debug\net8.0\Namespaces.csproj.CoreCompileInputs.cache
+D:\dotnet\Guide\Namespaces\obj\Debug\net8.0\Namespaces.dll
+D:\dotnet\Guide\Namespaces\obj\Debug\net8.0\refint\Namespaces.dll
+D:\dotnet\Guide\Namespaces\obj\Debug\net8.0\Namespaces.pdb
+D:\dotnet\Guide\Namespaces\obj\Debug\net8.0\Namespaces.genruntimeconfig.cache
+D:\dotnet\Guide\Namespaces\obj\Debug\net8.0\ref\Namespaces.dll

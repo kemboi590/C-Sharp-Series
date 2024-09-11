@@ -1,0 +1,14 @@
+D:\dotnet\Guide\ClassObjects\bin\Debug\net8.0\ClassObjects.exe
+D:\dotnet\Guide\ClassObjects\bin\Debug\net8.0\ClassObjects.deps.json
+D:\dotnet\Guide\ClassObjects\bin\Debug\net8.0\ClassObjects.runtimeconfig.json
+D:\dotnet\Guide\ClassObjects\bin\Debug\net8.0\ClassObjects.dll
+D:\dotnet\Guide\ClassObjects\bin\Debug\net8.0\ClassObjects.pdb
+D:\dotnet\Guide\ClassObjects\obj\Debug\net8.0\ClassObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Guide\ClassObjects\obj\Debug\net8.0\ClassObjects.AssemblyInfoInputs.cache
+D:\dotnet\Guide\ClassObjects\obj\Debug\net8.0\ClassObjects.AssemblyInfo.cs
+D:\dotnet\Guide\ClassObjects\obj\Debug\net8.0\ClassObjects.csproj.CoreCompileInputs.cache
+D:\dotnet\Guide\ClassObjects\obj\Debug\net8.0\ClassObjects.dll
+D:\dotnet\Guide\ClassObjects\obj\Debug\net8.0\refint\ClassObjects.dll
+D:\dotnet\Guide\ClassObjects\obj\Debug\net8.0\ClassObjects.pdb
+D:\dotnet\Guide\ClassObjects\obj\Debug\net8.0\ClassObjects.genruntimeconfig.cache
+D:\dotnet\Guide\ClassObjects\obj\Debug\net8.0\ref\ClassObjects.dll
