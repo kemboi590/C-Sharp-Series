@@ -1,0 +1,29 @@
+D:\dotnet\c-sharp foundations\Type System\Type Casting\bin\Debug\net8.0\Type Casting.exe
+D:\dotnet\c-sharp foundations\Type System\Type Casting\bin\Debug\net8.0\Type Casting.deps.json
+D:\dotnet\c-sharp foundations\Type System\Type Casting\bin\Debug\net8.0\Type Casting.runtimeconfig.json
+D:\dotnet\c-sharp foundations\Type System\Type Casting\bin\Debug\net8.0\Type Casting.dll
+D:\dotnet\c-sharp foundations\Type System\Type Casting\bin\Debug\net8.0\Type Casting.pdb
+D:\dotnet\c-sharp foundations\Type System\Type Casting\obj\Debug\net8.0\Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\c-sharp foundations\Type System\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfoInputs.cache
+D:\dotnet\c-sharp foundations\Type System\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfo.cs
+D:\dotnet\c-sharp foundations\Type System\Type Casting\obj\Debug\net8.0\Type Casting.csproj.CoreCompileInputs.cache
+D:\dotnet\c-sharp foundations\Type System\Type Casting\obj\Debug\net8.0\Type Casting.dll
+D:\dotnet\c-sharp foundations\Type System\Type Casting\obj\Debug\net8.0\refint\Type Casting.dll
+D:\dotnet\c-sharp foundations\Type System\Type Casting\obj\Debug\net8.0\Type Casting.pdb
+D:\dotnet\c-sharp foundations\Type System\Type Casting\obj\Debug\net8.0\Type Casting.genruntimeconfig.cache
+D:\dotnet\c-sharp foundations\Type System\Type Casting\obj\Debug\net8.0\ref\Type Casting.dll
+D:\dotnet\Guide\Type System\Type Casting\bin\Debug\net8.0\Type Casting.exe
+D:\dotnet\Guide\Type System\Type Casting\bin\Debug\net8.0\Type Casting.deps.json
+D:\dotnet\Guide\Type System\Type Casting\bin\Debug\net8.0\Type Casting.runtimeconfig.json
+D:\dotnet\Guide\Type System\Type Casting\bin\Debug\net8.0\Type Casting.dll
+D:\dotnet\Guide\Type System\Type Casting\bin\Debug\net8.0\Type Casting.pdb
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfoInputs.cache
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\Type Casting.AssemblyInfo.cs
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\Type Casting.csproj.CoreCompileInputs.cache
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\Type Casting.sourcelink.json
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\Type Casting.dll
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\refint\Type Casting.dll
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\Type Casting.pdb
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\Type Casting.genruntimeconfig.cache
+D:\dotnet\Guide\Type System\Type Casting\obj\Debug\net8.0\ref\Type Casting.dll

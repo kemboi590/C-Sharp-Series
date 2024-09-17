@@ -1,0 +1,29 @@
+D:\dotnet\c-sharp foundations\Type System\Reference Types\bin\Debug\net8.0\Reference Types.exe
+D:\dotnet\c-sharp foundations\Type System\Reference Types\bin\Debug\net8.0\Reference Types.deps.json
+D:\dotnet\c-sharp foundations\Type System\Reference Types\bin\Debug\net8.0\Reference Types.runtimeconfig.json
+D:\dotnet\c-sharp foundations\Type System\Reference Types\bin\Debug\net8.0\Reference Types.dll
+D:\dotnet\c-sharp foundations\Type System\Reference Types\bin\Debug\net8.0\Reference Types.pdb
+D:\dotnet\c-sharp foundations\Type System\Reference Types\obj\Debug\net8.0\Reference Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\c-sharp foundations\Type System\Reference Types\obj\Debug\net8.0\Reference Types.AssemblyInfoInputs.cache
+D:\dotnet\c-sharp foundations\Type System\Reference Types\obj\Debug\net8.0\Reference Types.AssemblyInfo.cs
+D:\dotnet\c-sharp foundations\Type System\Reference Types\obj\Debug\net8.0\Reference Types.csproj.CoreCompileInputs.cache
+D:\dotnet\c-sharp foundations\Type System\Reference Types\obj\Debug\net8.0\Reference Types.dll
+D:\dotnet\c-sharp foundations\Type System\Reference Types\obj\Debug\net8.0\refint\Reference Types.dll
+D:\dotnet\c-sharp foundations\Type System\Reference Types\obj\Debug\net8.0\Reference Types.pdb
+D:\dotnet\c-sharp foundations\Type System\Reference Types\obj\Debug\net8.0\Reference Types.genruntimeconfig.cache
+D:\dotnet\c-sharp foundations\Type System\Reference Types\obj\Debug\net8.0\ref\Reference Types.dll
+D:\dotnet\Guide\Type System\Reference Types\bin\Debug\net8.0\Reference Types.exe
+D:\dotnet\Guide\Type System\Reference Types\bin\Debug\net8.0\Reference Types.deps.json
+D:\dotnet\Guide\Type System\Reference Types\bin\Debug\net8.0\Reference Types.runtimeconfig.json
+D:\dotnet\Guide\Type System\Reference Types\bin\Debug\net8.0\Reference Types.dll
+D:\dotnet\Guide\Type System\Reference Types\bin\Debug\net8.0\Reference Types.pdb
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\Reference Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\Reference Types.AssemblyInfoInputs.cache
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\Reference Types.AssemblyInfo.cs
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\Reference Types.csproj.CoreCompileInputs.cache
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\Reference Types.sourcelink.json
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\Reference Types.dll
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\refint\Reference Types.dll
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\Reference Types.pdb
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\Reference Types.genruntimeconfig.cache
+D:\dotnet\Guide\Type System\Reference Types\obj\Debug\net8.0\ref\Reference Types.dll

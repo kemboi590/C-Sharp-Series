@@ -1,0 +1,29 @@
+D:\dotnet\c-sharp foundations\Type System\Value Types\bin\Debug\net8.0\Value Types.exe
+D:\dotnet\c-sharp foundations\Type System\Value Types\bin\Debug\net8.0\Value Types.deps.json
+D:\dotnet\c-sharp foundations\Type System\Value Types\bin\Debug\net8.0\Value Types.runtimeconfig.json
+D:\dotnet\c-sharp foundations\Type System\Value Types\bin\Debug\net8.0\Value Types.dll
+D:\dotnet\c-sharp foundations\Type System\Value Types\bin\Debug\net8.0\Value Types.pdb
+D:\dotnet\c-sharp foundations\Type System\Value Types\obj\Debug\net8.0\Value Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\c-sharp foundations\Type System\Value Types\obj\Debug\net8.0\Value Types.AssemblyInfoInputs.cache
+D:\dotnet\c-sharp foundations\Type System\Value Types\obj\Debug\net8.0\Value Types.AssemblyInfo.cs
+D:\dotnet\c-sharp foundations\Type System\Value Types\obj\Debug\net8.0\Value Types.csproj.CoreCompileInputs.cache
+D:\dotnet\c-sharp foundations\Type System\Value Types\obj\Debug\net8.0\Value Types.dll
+D:\dotnet\c-sharp foundations\Type System\Value Types\obj\Debug\net8.0\refint\Value Types.dll
+D:\dotnet\c-sharp foundations\Type System\Value Types\obj\Debug\net8.0\Value Types.pdb
+D:\dotnet\c-sharp foundations\Type System\Value Types\obj\Debug\net8.0\Value Types.genruntimeconfig.cache
+D:\dotnet\c-sharp foundations\Type System\Value Types\obj\Debug\net8.0\ref\Value Types.dll
+D:\dotnet\Guide\Type System\Value Types\bin\Debug\net8.0\Value Types.exe
+D:\dotnet\Guide\Type System\Value Types\bin\Debug\net8.0\Value Types.deps.json
+D:\dotnet\Guide\Type System\Value Types\bin\Debug\net8.0\Value Types.runtimeconfig.json
+D:\dotnet\Guide\Type System\Value Types\bin\Debug\net8.0\Value Types.dll
+D:\dotnet\Guide\Type System\Value Types\bin\Debug\net8.0\Value Types.pdb
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\Value Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\Value Types.AssemblyInfoInputs.cache
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\Value Types.AssemblyInfo.cs
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\Value Types.csproj.CoreCompileInputs.cache
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\Value Types.sourcelink.json
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\Value Types.dll
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\refint\Value Types.dll
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\Value Types.pdb
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\Value Types.genruntimeconfig.cache
+D:\dotnet\Guide\Type System\Value Types\obj\Debug\net8.0\ref\Value Types.dll
