@@ -9,6 +9,7 @@ Welcome to the C# Beginner Code repository! This repository contains simple and 
 - [Keywords in C#](#keywords-in-c)
 - [Classes and Objects](#classes-and-objects)
 - [Variables](#variables)
+- [C-Sharp Type System](#C-Sharp-Type-System)
 
 ## Hello World
 
@@ -29,3 +30,29 @@ This demonstrates the concepts of classes and objects in C#. It includes definin
 ## Variables
 
 This illustrates different types of variables in C#, such as `int`, `string`, `double`, `bool`, and `char`. It covers how to declare, initialize, and use variables in calculations.
+
+## C-Sharp Type System
+
+C# has two categories of type.
+
+### 1. Value Types
+- Only contain its data
+- Examples include: 
+    - int
+    - float
+    - doule
+    - decimal
+    - bool
+    - char
+
+
+### 2. Referrence Types
+- Stores reference to there data objects.
+- Examples include:
+    - class
+    - intefaces
+    - arrays
+    - strings
+    - tuples
+    - records
+    - dynamic
