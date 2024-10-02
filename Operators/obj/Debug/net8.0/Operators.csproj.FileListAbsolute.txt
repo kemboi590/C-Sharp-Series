@@ -1,0 +1,15 @@
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\Operators.sourcelink.json
+D:\dotnet\Guide\Operators\bin\Debug\net8.0\Operators.exe
+D:\dotnet\Guide\Operators\bin\Debug\net8.0\Operators.deps.json
+D:\dotnet\Guide\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+D:\dotnet\Guide\Operators\bin\Debug\net8.0\Operators.dll
+D:\dotnet\Guide\Operators\bin\Debug\net8.0\Operators.pdb
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\Operators.dll
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\refint\Operators.dll
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\Operators.pdb
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+D:\dotnet\Guide\Operators\obj\Debug\net8.0\ref\Operators.dll

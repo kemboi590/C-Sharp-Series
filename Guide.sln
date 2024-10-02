@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassObjects", "ClassObject
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C-sharpVariables", "C-sharpVariables\C-sharpVariables.csproj", "{6AE6A688-13AF-4575-A785-2E95637193A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operators", "Operators\Operators.csproj", "{16CDECB9-8AF3-4A69-93E0-AF92D8E54393}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6AE6A688-13AF-4575-A785-2E95637193A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AE6A688-13AF-4575-A785-2E95637193A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AE6A688-13AF-4575-A785-2E95637193A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16CDECB9-8AF3-4A69-93E0-AF92D8E54393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16CDECB9-8AF3-4A69-93E0-AF92D8E54393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16CDECB9-8AF3-4A69-93E0-AF92D8E54393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16CDECB9-8AF3-4A69-93E0-AF92D8E54393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

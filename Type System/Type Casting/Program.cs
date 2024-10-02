@@ -5,7 +5,8 @@ class Program
 {
     static void Main()
     {
-        // There is two types of caseting:
+        // type casting is the process of converting one type of data to another type
+        // There is two types of casting:
         // 1. Implicit casting	
         // 2. Explicit casting
 
@@ -30,7 +31,7 @@ class Program
 
         if (dog != null)
         {
-            Console.WriteLine("Successfully Cated Animal to Dog using 'as' keyword");
+            Console.WriteLine("Successfully Casted Animal to Dog using 'as' keyword");
         }
 
         // Type Checking with 'is' Operator
