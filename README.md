@@ -56,3 +56,27 @@ C# has two categories of type.
     - tuples
     - records
     - dynamic
+
+
+### 3. Generics and Interfaces
+
+
+**Explanation**:
+
+- **IPaymentProcessor Interface**:  
+  This defines two methods, `ProcessPayment` and `GetPaymentStatus`, that any class implementing this interface must provide. It abstracts the functionality of different payment processors.
+
+- **CreditCardPayment and PayPalPayment Classes**:  
+  These classes implement the `IPaymentProcessor` interface, providing their own versions of how a payment is processed and how the payment status is retrieved.
+
+
+
+| **Feature**             | **Interface**                                                            | **Generics**                                                          |
+|-------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| **Purpose**              | Define a contract that a class must follow.                              | Define reusable types, methods, or classes with placeholders for types.|
+| **Type Constraint**      | No specific type constraint; any class/struct can implement an interface.| Can be constrained to specific types (e.g., `where T : class`).        |
+| **Implementation**       | Interfaces do not contain any implementation; classes must implement them.| Generics provide actual code and logic, but work with any type.        |
+| **Polymorphism**         | Used to achieve polymorphism (treat different classes uniformly).         | Enables writing flexible, type-safe code that can work with multiple types. |
+| **Multiple Use**         | A class can implement multiple interfaces.                               | A class or method can only use one generic definition at a time.       |
+| **Example Use Cases**    | Enforce common behavior across different types of classes.               | Create reusable data structures (e.g., lists, dictionaries) or methods.|
+| **Code Reuse**           | Achieves code reuse by defining shared behavior for unrelated classes.   | Achieves code reuse by allowing logic to be applied to various data types. |
