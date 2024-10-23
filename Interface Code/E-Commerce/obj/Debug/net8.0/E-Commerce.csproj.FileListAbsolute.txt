@@ -1,0 +1,15 @@
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\bin\Debug\net8.0\E-Commerce.exe
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\bin\Debug\net8.0\E-Commerce.deps.json
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\bin\Debug\net8.0\E-Commerce.runtimeconfig.json
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\bin\Debug\net8.0\E-Commerce.dll
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\bin\Debug\net8.0\E-Commerce.pdb
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\E-Commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\E-Commerce.AssemblyInfoInputs.cache
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\E-Commerce.AssemblyInfo.cs
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\E-Commerce.csproj.CoreCompileInputs.cache
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\E-Commerce.sourcelink.json
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\E-Commerce.dll
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\refint\E-Commerce.dll
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\E-Commerce.pdb
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\E-Commerce.genruntimeconfig.cache
+C:\My Drive\C-Sharp-Series\Interface Code\E-Commerce\obj\Debug\net8.0\ref\E-Commerce.dll
