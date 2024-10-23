@@ -22,5 +22,4 @@ This defines two methods, ProcessPayment and GetPaymentStatus, that any class im
 CreditCardPayment and PayPalPayment Classes: 
 These classes implement the IPaymentProcessor interface, providing their own versions of how a payment is processed and how the payment status is retrieved.
 
-
 */
