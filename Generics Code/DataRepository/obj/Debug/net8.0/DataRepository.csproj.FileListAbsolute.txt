@@ -1,0 +1,15 @@
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\bin\Debug\net8.0\DataRepository.exe
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\bin\Debug\net8.0\DataRepository.deps.json
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\bin\Debug\net8.0\DataRepository.runtimeconfig.json
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\bin\Debug\net8.0\DataRepository.dll
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\bin\Debug\net8.0\DataRepository.pdb
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\DataRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfoInputs.cache
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\DataRepository.AssemblyInfo.cs
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\DataRepository.csproj.CoreCompileInputs.cache
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\DataRepository.sourcelink.json
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\DataRepository.dll
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\refint\DataRepository.dll
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\DataRepository.pdb
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\DataRepository.genruntimeconfig.cache
+C:\My Drive\C-Sharp-Series\Generics Code\DataRepository\obj\Debug\net8.0\ref\DataRepository.dll

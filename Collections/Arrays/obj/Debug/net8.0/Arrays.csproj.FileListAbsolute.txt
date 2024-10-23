@@ -1,0 +1,15 @@
+C:\My Drive\C-Sharp-Series\Collections\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\My Drive\C-Sharp-Series\Collections\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\My Drive\C-Sharp-Series\Collections\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\My Drive\C-Sharp-Series\Collections\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\My Drive\C-Sharp-Series\Collections\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\My Drive\C-Sharp-Series\Collections\Arrays\obj\Debug\net8.0\ref\Arrays.dll

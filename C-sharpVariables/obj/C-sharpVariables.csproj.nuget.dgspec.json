@@ -1,25 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotnet\\Guide\\C-sharpVariables\\C-sharpVariables.csproj": {}
+    "C:\\My Drive\\C-Sharp-Series\\C-sharpVariables\\C-sharpVariables.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\Guide\\C-sharpVariables\\C-sharpVariables.csproj": {
+    "C:\\My Drive\\C-Sharp-Series\\C-sharpVariables\\C-sharpVariables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\Guide\\C-sharpVariables\\C-sharpVariables.csproj",
+        "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\C-sharpVariables\\C-sharpVariables.csproj",
         "projectName": "C-sharpVariables",
-        "projectPath": "D:\\dotnet\\Guide\\C-sharpVariables\\C-sharpVariables.csproj",
-        "packagesPath": "C:\\Users\\KEMBOI\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\Guide\\C-sharpVariables\\obj\\",
+        "projectPath": "C:\\My Drive\\C-Sharp-Series\\C-sharpVariables\\C-sharpVariables.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\My Drive\\C-Sharp-Series\\C-sharpVariables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KEMBOI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

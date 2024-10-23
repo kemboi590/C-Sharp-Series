@@ -1,0 +1,15 @@
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\bin\Debug\net8.0\GenericBox.exe
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\bin\Debug\net8.0\GenericBox.deps.json
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\bin\Debug\net8.0\GenericBox.runtimeconfig.json
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\bin\Debug\net8.0\GenericBox.dll
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\bin\Debug\net8.0\GenericBox.pdb
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\GenericBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\GenericBox.AssemblyInfoInputs.cache
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\GenericBox.AssemblyInfo.cs
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\GenericBox.csproj.CoreCompileInputs.cache
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\GenericBox.sourcelink.json
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\GenericBox.dll
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\refint\GenericBox.dll
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\GenericBox.pdb
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\GenericBox.genruntimeconfig.cache
+C:\My Drive\C-Sharp-Series\Generics Code\GenericBox\obj\Debug\net8.0\ref\GenericBox.dll

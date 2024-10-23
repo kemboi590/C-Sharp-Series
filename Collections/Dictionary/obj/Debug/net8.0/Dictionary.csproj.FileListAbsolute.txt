@@ -1,0 +1,15 @@
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\bin\Debug\net8.0\Dictionary.exe
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\bin\Debug\net8.0\Dictionary.dll
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\Dictionary.sourcelink.json
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\Dictionary.dll
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+C:\My Drive\C-Sharp-Series\Collections\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll

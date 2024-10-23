@@ -1,0 +1,15 @@
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\bin\Debug\net8.0\ColectionsIntro.exe
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\bin\Debug\net8.0\ColectionsIntro.deps.json
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\bin\Debug\net8.0\ColectionsIntro.runtimeconfig.json
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\bin\Debug\net8.0\ColectionsIntro.dll
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\bin\Debug\net8.0\ColectionsIntro.pdb
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\ColectionsIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\ColectionsIntro.AssemblyInfoInputs.cache
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\ColectionsIntro.AssemblyInfo.cs
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\ColectionsIntro.csproj.CoreCompileInputs.cache
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\ColectionsIntro.sourcelink.json
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\ColectionsIntro.dll
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\refint\ColectionsIntro.dll
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\ColectionsIntro.pdb
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\ColectionsIntro.genruntimeconfig.cache
+C:\My Drive\C-Sharp-Series\Collections\ColectionsIntro\obj\Debug\net8.0\ref\ColectionsIntro.dll
