@@ -1,0 +1,15 @@
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\Encapsulation.sourcelink.json
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+C:\My Drive\C-Sharp-Series\OOP\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll

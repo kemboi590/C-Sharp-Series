@@ -1,0 +1,15 @@
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\bin\Debug\net8.0\Abstraction.exe
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\bin\Debug\net8.0\Abstraction.deps.json
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\bin\Debug\net8.0\Abstraction.runtimeconfig.json
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\bin\Debug\net8.0\Abstraction.dll
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\bin\Debug\net8.0\Abstraction.pdb
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfoInputs.cache
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\Abstraction.AssemblyInfo.cs
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\Abstraction.sourcelink.json
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\Abstraction.dll
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\refint\Abstraction.dll
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\Abstraction.pdb
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\Abstraction.genruntimeconfig.cache
+C:\My Drive\C-Sharp-Series\OOP\Abstraction\obj\Debug\net8.0\ref\Abstraction.dll
