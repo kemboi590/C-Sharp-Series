@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\Encapsulation.csproj": {}
+    "C:\\0. My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\Encapsulation.csproj": {}
   },
   "projects": {
-    "C:\\My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\Encapsulation.csproj": {
+    "C:\\0. My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\Encapsulation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\Encapsulation.csproj",
+        "projectUniqueName": "C:\\0. My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\Encapsulation.csproj",
         "projectName": "Encapsulation",
-        "projectPath": "C:\\My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\Encapsulation.csproj",
+        "projectPath": "C:\\0. My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\Encapsulation.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\obj\\",
+        "outputPath": "C:\\0. My Drive\\C-Sharp-Series\\OOP\\Encapsulation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

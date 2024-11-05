@@ -1,0 +1,15 @@
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\bin\Debug\net8.0\FilterLINQ.exe
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\bin\Debug\net8.0\FilterLINQ.deps.json
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\bin\Debug\net8.0\FilterLINQ.runtimeconfig.json
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\bin\Debug\net8.0\FilterLINQ.dll
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\bin\Debug\net8.0\FilterLINQ.pdb
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\FilterLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\FilterLINQ.AssemblyInfoInputs.cache
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\FilterLINQ.AssemblyInfo.cs
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\FilterLINQ.csproj.CoreCompileInputs.cache
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\FilterLINQ.sourcelink.json
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\FilterLINQ.dll
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\refint\FilterLINQ.dll
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\FilterLINQ.pdb
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\FilterLINQ.genruntimeconfig.cache
+C:\0. My Drive\C-Sharp-Series\LINQ\FilterLINQ\obj\Debug\net8.0\ref\FilterLINQ.dll

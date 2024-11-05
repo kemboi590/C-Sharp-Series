@@ -1,0 +1,15 @@
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\bin\Debug\net8.0\SortOderBy.exe
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\bin\Debug\net8.0\SortOderBy.deps.json
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\bin\Debug\net8.0\SortOderBy.runtimeconfig.json
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\bin\Debug\net8.0\SortOderBy.dll
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\bin\Debug\net8.0\SortOderBy.pdb
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\SortOderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\SortOderBy.AssemblyInfoInputs.cache
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\SortOderBy.AssemblyInfo.cs
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\SortOderBy.csproj.CoreCompileInputs.cache
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\SortOderBy.sourcelink.json
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\SortOderBy.dll
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\refint\SortOderBy.dll
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\SortOderBy.pdb
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\SortOderBy.genruntimeconfig.cache
+C:\0. My Drive\C-Sharp-Series\LINQ\SortOderBy\obj\Debug\net8.0\ref\SortOderBy.dll

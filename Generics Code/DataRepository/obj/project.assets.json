@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\Generics Code\\DataRepository\\DataRepository.csproj",
+      "projectUniqueName": "C:\\0. My Drive\\C-Sharp-Series\\Generics Code\\DataRepository\\DataRepository.csproj",
       "projectName": "DataRepository",
-      "projectPath": "C:\\My Drive\\C-Sharp-Series\\Generics Code\\DataRepository\\DataRepository.csproj",
+      "projectPath": "C:\\0. My Drive\\C-Sharp-Series\\Generics Code\\DataRepository\\DataRepository.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\My Drive\\C-Sharp-Series\\Generics Code\\DataRepository\\obj\\",
+      "outputPath": "C:\\0. My Drive\\C-Sharp-Series\\Generics Code\\DataRepository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

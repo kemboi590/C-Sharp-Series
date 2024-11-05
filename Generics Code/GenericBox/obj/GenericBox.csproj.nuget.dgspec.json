@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\GenericBox.csproj": {}
+    "C:\\0. My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\GenericBox.csproj": {}
   },
   "projects": {
-    "C:\\My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\GenericBox.csproj": {
+    "C:\\0. My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\GenericBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\GenericBox.csproj",
+        "projectUniqueName": "C:\\0. My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\GenericBox.csproj",
         "projectName": "GenericBox",
-        "projectPath": "C:\\My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\GenericBox.csproj",
+        "projectPath": "C:\\0. My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\GenericBox.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\obj\\",
+        "outputPath": "C:\\0. My Drive\\C-Sharp-Series\\Generics Code\\GenericBox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

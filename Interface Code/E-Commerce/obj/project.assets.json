@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\Interface Code\\E-Commerce\\E-Commerce.csproj",
+      "projectUniqueName": "C:\\0. My Drive\\C-Sharp-Series\\Interface Code\\E-Commerce\\E-Commerce.csproj",
       "projectName": "E-Commerce",
-      "projectPath": "C:\\My Drive\\C-Sharp-Series\\Interface Code\\E-Commerce\\E-Commerce.csproj",
+      "projectPath": "C:\\0. My Drive\\C-Sharp-Series\\Interface Code\\E-Commerce\\E-Commerce.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\My Drive\\C-Sharp-Series\\Interface Code\\E-Commerce\\obj\\",
+      "outputPath": "C:\\0. My Drive\\C-Sharp-Series\\Interface Code\\E-Commerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

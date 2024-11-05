@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\Operators\\Operators.csproj",
+      "projectUniqueName": "C:\\0. My Drive\\C-Sharp-Series\\Operators\\Operators.csproj",
       "projectName": "Operators",
-      "projectPath": "C:\\My Drive\\C-Sharp-Series\\Operators\\Operators.csproj",
+      "projectPath": "C:\\0. My Drive\\C-Sharp-Series\\Operators\\Operators.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\My Drive\\C-Sharp-Series\\Operators\\obj\\",
+      "outputPath": "C:\\0. My Drive\\C-Sharp-Series\\Operators\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

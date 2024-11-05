@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\C-sharpVariables\\C-sharpVariables.csproj",
+      "projectUniqueName": "C:\\0. My Drive\\C-Sharp-Series\\C-sharpVariables\\C-sharpVariables.csproj",
       "projectName": "C-sharpVariables",
-      "projectPath": "C:\\My Drive\\C-Sharp-Series\\C-sharpVariables\\C-sharpVariables.csproj",
+      "projectPath": "C:\\0. My Drive\\C-Sharp-Series\\C-sharpVariables\\C-sharpVariables.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\My Drive\\C-Sharp-Series\\C-sharpVariables\\obj\\",
+      "outputPath": "C:\\0. My Drive\\C-Sharp-Series\\C-sharpVariables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

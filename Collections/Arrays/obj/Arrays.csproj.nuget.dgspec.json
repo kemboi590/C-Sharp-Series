@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Drive\\C-Sharp-Series\\Collections\\Arrays\\Arrays.csproj": {}
+    "C:\\0. My Drive\\C-Sharp-Series\\Collections\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\My Drive\\C-Sharp-Series\\Collections\\Arrays\\Arrays.csproj": {
+    "C:\\0. My Drive\\C-Sharp-Series\\Collections\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\Collections\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\0. My Drive\\C-Sharp-Series\\Collections\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\My Drive\\C-Sharp-Series\\Collections\\Arrays\\Arrays.csproj",
+        "projectPath": "C:\\0. My Drive\\C-Sharp-Series\\Collections\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\My Drive\\C-Sharp-Series\\Collections\\Arrays\\obj\\",
+        "outputPath": "C:\\0. My Drive\\C-Sharp-Series\\Collections\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

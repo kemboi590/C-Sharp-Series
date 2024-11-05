@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\ClassObjects\\ClassObjects.csproj",
+      "projectUniqueName": "C:\\0. My Drive\\C-Sharp-Series\\ClassObjects\\ClassObjects.csproj",
       "projectName": "ClassObjects",
-      "projectPath": "C:\\My Drive\\C-Sharp-Series\\ClassObjects\\ClassObjects.csproj",
+      "projectPath": "C:\\0. My Drive\\C-Sharp-Series\\ClassObjects\\ClassObjects.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\My Drive\\C-Sharp-Series\\ClassObjects\\obj\\",
+      "outputPath": "C:\\0. My Drive\\C-Sharp-Series\\ClassObjects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

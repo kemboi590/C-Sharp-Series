@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\ColectionsIntro.csproj": {}
+    "C:\\0. My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\ColectionsIntro.csproj": {}
   },
   "projects": {
-    "C:\\My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\ColectionsIntro.csproj": {
+    "C:\\0. My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\ColectionsIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\ColectionsIntro.csproj",
+        "projectUniqueName": "C:\\0. My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\ColectionsIntro.csproj",
         "projectName": "ColectionsIntro",
-        "projectPath": "C:\\My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\ColectionsIntro.csproj",
+        "projectPath": "C:\\0. My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\ColectionsIntro.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\obj\\",
+        "outputPath": "C:\\0. My Drive\\C-Sharp-Series\\Collections\\ColectionsIntro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

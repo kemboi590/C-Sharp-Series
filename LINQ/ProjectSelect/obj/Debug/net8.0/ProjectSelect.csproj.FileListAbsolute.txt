@@ -1,0 +1,15 @@
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\bin\Debug\net8.0\ProjectSelect.exe
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\bin\Debug\net8.0\ProjectSelect.deps.json
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\bin\Debug\net8.0\ProjectSelect.runtimeconfig.json
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\bin\Debug\net8.0\ProjectSelect.dll
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\bin\Debug\net8.0\ProjectSelect.pdb
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\ProjectSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\ProjectSelect.AssemblyInfoInputs.cache
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\ProjectSelect.AssemblyInfo.cs
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\ProjectSelect.csproj.CoreCompileInputs.cache
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\ProjectSelect.sourcelink.json
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\ProjectSelect.dll
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\refint\ProjectSelect.dll
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\ProjectSelect.pdb
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\ProjectSelect.genruntimeconfig.cache
+C:\0. My Drive\C-Sharp-Series\LINQ\ProjectSelect\obj\Debug\net8.0\ref\ProjectSelect.dll
